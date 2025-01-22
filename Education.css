@@ -1,0 +1,9 @@
+.Main_Education{
+    font-family: 'Times New Roman', Times, serif;
+}
+.Education{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 10px 0px 10px;
+    font-size: large;
+}

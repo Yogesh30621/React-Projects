@@ -1,0 +1,17 @@
+.Skills{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-family: 'Times New Roman', Times, serif;
+}
+.Skills_main_div h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.skill_box{
+  height: 70px;
+  width: 170px;
+  background-color: skyblue;
+  text-align: center;
+  border: 1px solid black;
+}
